@@ -1,0 +1,6 @@
+1 - Terminar Projeto com aulas
+2 - Ajustar os horarios certos dos jogos para usar esse projeto
+3 - Mais pra frente refatoralo com estruturas de repetição para deixar o código menor e usar um banco
+de dados, contendo as informações ou brincar com o proprio banco de dados do json para praticar
+
+5 - Adicionar ao portfólio ( ja tenho varios projetos novos, ta na hora de um novo portfolio tbm)
