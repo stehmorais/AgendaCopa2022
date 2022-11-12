@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Calendário da copa é um projeto que mostra os jogos da Copa de 2022.
 
-Visualize o projeto por aqui: https://explorerlab-sooty.vercel.app/
+Visualize o projeto por aqui: https://agenda-copa2022.vercel.app/
 
 ## 🔖 Layout
 
